@@ -1,1 +1,1 @@
-this is a sample project for WS
+this is a sample project for WS( Winter or Sommer)
